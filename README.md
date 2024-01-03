@@ -1,16 +1,7 @@
-# shovving_web
+# NAEMO_NEMON_Web
 
-shovving_web
+내모네몬 프로젝트 웹투표용 웹페이지
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+특이사항
+- flutter web을 사용하여 구현
+- 앱에서 사용자가 생성한 투표를 공유하면 공유받은 유저는 이 웹페이지를 통해 투표에 참여합니다.
